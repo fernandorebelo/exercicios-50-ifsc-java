@@ -2,7 +2,7 @@
 Lista de exercícios elaborada pelo IFSC.
 Exercícios sobre linguagem de programação em Java.
 
-##Princípios
+## Princípios
 1. Crie um algoritmo que escreve o seu nome completo, colocando uma palavra em cada linha.
 2. Crie um algoritmo que leia um número inteiro e mostre seu sucessor 
 3. Crie um algoritmo que leia um número inteiro e mostre seu antecessor.
@@ -16,7 +16,7 @@ Exercícios sobre linguagem de programação em Java.
 11. Crie um algoritmo que leia uma frase do usuário e escreva na tela exatamente o que o usuário digitar
 12. Crie um algoritmo que solicite o nome, o endereço e o telefone do usuário e depois mostra os dados digitados em uma única linha.  
 
-##Comandos de Decisão
+## Comandos de Decisão
 
 13. Crie um algoritmo que leia um número do usuário e informe se e o número é positivo ou negativo.  
 14. Crie um algoritmo que leia dois valores (x e y) e informe se eles são iguais.
