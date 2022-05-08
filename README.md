@@ -1,2 +1,4 @@
-# exercicios-50-ifsc-java
-50 exercícios em Java elaborados pelo IFSC
+# 50 EXERCÍCIOS DE JAVA
+Lista de exercícios elaborada pelo IFSC.
+Exercícios sobre linguagem de programação em Java.
+
