@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\ECLIPSE - IDE\exercicios-50-ifsc\.metadata\.plugins\org.eclipse.jdt.core
+3538927053.index
+616430160.index
