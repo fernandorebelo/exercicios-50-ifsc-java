@@ -56,5 +56,5 @@ Comandos de Repetição
 46. Crie um algoritmo, utilizando0020laços de repetição aninhados, que exiba na tela a tabuada de multiplicação dos números de 1 a 9. 
 47. Crie um algoritmo que simule o funcionamento de um caixa de supermercado. O caixa fica aberto até o fim do expediente e pode processar a compra de vários clientes. Cada cliente pode comprar vários itens. Ao ler cada item deve ser exibida uma mensagem para o operador do caixa perguntando se há mais itens a serem processados. Ao final, exiba quanto a compra custou ao cliente. E então solicite do operador do caixa a informação se deseja fechar o caixa. Encerre o algoritmo quando o usuário informar que deseja fechar o caixa.
 48. Uma escola possui um determinado número de turmas. Crie um algoritmo que leia a quantidade de turmas existentes na escola. Para cada turma, leia a quantidade de alunos e, para cada aluno, leia a sua média no semestre. Informe a média de cada uma das turmas. 
-49. Crie um algoritmo que leia um número n do usuário e imprima o padrão abaixo na tela. Ex: para n = 5.
-50. Crie um algoritmo que leia um número n do usuário e imprima o padrão abaixo na tela. Ex: para n = 5. 
+49. Crie um algoritmo que leia um número n do usuário e imprima o padrão quadrado de asteriscos na tela. Ex: para n = 5.
+50. Crie um algoritmo que leia um número n do usuário e imprima o padrão escada descendente de asteriscos na tela. Ex: para n = 5. 
